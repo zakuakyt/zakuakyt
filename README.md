@@ -1,6 +1,6 @@
 <h1 align="center">My name is Zakhar</h1>
 
-- 🔭 I’m currently working on **a split, wireless ergonomic keyboard**
+- 🔭 I’m currently working on **a half keyboard for gaming**
 
 - 🌱 I’m currently learning **PCB design**
 
