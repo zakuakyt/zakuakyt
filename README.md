@@ -5,5 +5,5 @@
 
   My site **https://zakuakyt.github.io/zakhar/**
 
-  Latest project: 
+  Latest project: https://github.com/EshanGillani/GridWatch
 
